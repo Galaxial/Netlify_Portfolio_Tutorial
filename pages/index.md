@@ -3,7 +3,28 @@ layout: home
 title: Welcome
 permalink: /
 section: home
-intro_paragraph: ''
+intro_paragraph: >-
+  If you're reading this, you've likely already seen my portfolio page available
+  at [galaxial.github.io](galaxial.github.io), and are looking for how to get
+  started in creating your own. This guide will walk you through the steps to
+  getting your template deployed so that you can unleash your creativity and
+  make it yours. 
+
+
+  For this tutorial, you will need:
+
+
+  * A github account
+
+  * A Netlify Identity account
+
+
+  (If you don't have either of these yet, head over to [github.com](github.com),
+  and [netlify.com](netlify.com) respectively to make your account, and meet
+  back here when you're ready)
+
+
+  Now, let's get started, shall we?
 ---
 The first thing you'll want to do is find yourself a template, there are many available to choose one, so try to find one that best resembles your vision for your site. 
 
